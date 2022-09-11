@@ -42,7 +42,7 @@ export function Details() {
       <Header />
 
       {
-        data && // essa condição diz, se existir conteúdo, mostre o data, se não , não mostre nada 
+        data && 
         <main>
           <Content>
             <ButtonText
