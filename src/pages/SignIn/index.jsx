@@ -46,6 +46,9 @@ export function SignIn() {
           title={loading ? 'Carregando...' : 'Entrar'} 
           onClick={handleSignIn}
         />
+        <Link to="/visitor">
+          Entrar como visitante
+        </Link>
 
         <Link to="/register">
           Criar conta
