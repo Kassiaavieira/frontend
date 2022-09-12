@@ -6,10 +6,9 @@ Props;
 hooks;
 context;
 
-🛠 Tech Stack
-The following tools were used in the construction of the project:
+🛠 Tech Stack - As seguintes ferramentas foram utilizadas na construção do projeto:
 
-React
-HTML
-Styled components
-JavaScript
+React,
+HTML,
+Styled components,
+JavaScript.
